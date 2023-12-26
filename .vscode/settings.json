@@ -1,0 +1,11 @@
+{
+    "WillLuke.nextjs.hasPrompted": true,
+    “tailwindCSS.classAttributes”: [
+        “class”,
+        “className”,
+        “ngClass”,
+        “.*Class”,
+        “.*ClassName”,
+        “”
+      ]
+}
